@@ -1,2 +1,2 @@
 # Design-of-a-Vending-Machine-using-Java
-This project is all about the implementation of the vending machine using OOPs concepts in java
+Project uses oops concepts like encapsulation, interfaces, method overriding, and inheritance respectively. Unlike a canteen, project is a cost-effective way to provide food and drink on site.
